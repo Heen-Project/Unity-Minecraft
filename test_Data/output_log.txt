@@ -1,0 +1,88 @@
+Initialize engine version: 4.6.1f1 (d1db7a1b5196)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 630M            (ID=0xde9)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.090 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\System.Core.dll (this message is harmless)
+Profiler is only supported with Pro License
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/Runtime/Profiler/ProfilerConnection.cpp Line: 218)
+
+ini windowed
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuScreen:Start() (at G:\TPA 15-1\WE15-1 Game Programming\Assets\ScriptCollection\MenuScreen.cs:32)
+ 
+(Filename: G Line: 0)
+
+resolutionlength 10
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuScreen:Start() (at G:\TPA 15-1\WE15-1 Game Programming\Assets\ScriptCollection\MenuScreen.cs:37)
+ 
+(Filename: G Line: 0)
+
+res l w 1366
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuScreen:Start() (at G:\TPA 15-1\WE15-1 Game Programming\Assets\ScriptCollection\MenuScreen.cs:38)
+ 
+(Filename: G Line: 0)
+
+res l h 768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuScreen:Start() (at G:\TPA 15-1\WE15-1 Game Programming\Assets\ScriptCollection\MenuScreen.cs:39)
+ 
+(Filename: G Line: 0)
+
+res w 1366
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuScreen:Start() (at G:\TPA 15-1\WE15-1 Game Programming\Assets\ScriptCollection\MenuScreen.cs:40)
+ 
+(Filename: G Line: 0)
+
+res h 768
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuScreen:Start() (at G:\TPA 15-1\WE15-1 Game Programming\Assets\ScriptCollection\MenuScreen.cs:41)
+ 
+(Filename: G Line: 0)
+
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\System.dll (this message is harmless)
+1
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+MenuScreen:Update() (at G:\TPA 15-1\WE15-1 Game Programming\Assets\ScriptCollection\MenuScreen.cs:70)
+ 
+(Filename: G Line: 0)
+
+UnloadTime: 2.932604 ms
+System memory in use before: 13.4 MB.
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+System memory in use after: 13.2 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 251.
+Total: 1.099949 ms (FindLiveObjects: 0.015171 ms CreateObjectMapping: 0.011155 ms MarkObjects: 0.086568 ms  DeleteObjects: 0.113341 ms)
+
+Platform assembly: G:\TPA 15-1\WE15-1 Game Programming\test_Data\Managed\Boo.Lang.dll (this message is harmless)
+Waiting for finish
